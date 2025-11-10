@@ -1,4 +1,4 @@
-"# Airflow2_Basic" 
+## Airflow2_Basic 
 
 This project demonstrates practical usage of Apache Airflow to orchestrate and automate data workflows. The repository includes multiple DAG examples, covering different operators, scheduling strategies, and dependency management:
 
